@@ -11,6 +11,8 @@ private  static BigDecimal findroot(BigDecimal number) {
 	public void run()
 	{
 		System.out.println("run methos");
+		System.out.println("run methos1");
+		System.out.println("run methos3");
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
