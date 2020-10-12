@@ -10,7 +10,11 @@ abstract class Bike{
 	}  
 	  
 abstract class Honda4 extends Bike{  
-	void run(){System.out.println("running safely..");}  
+	void run(){
+		System.out.println("running safely..");
+		System.out.println("running safely..");
+		System.out.println("running safely..");
+		  }  
 }
 class honda{
 	
